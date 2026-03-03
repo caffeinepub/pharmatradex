@@ -68,7 +68,7 @@ export function Navbar() {
             </div>
             <span className="hidden sm:block">
               <span className="text-foreground">Pharma</span>
-              <span className="text-accent">tradeX</span>
+              <span className="text-accent">ct</span>
             </span>
           </Link>
 
